@@ -1,0 +1,66 @@
+.experience-section {
+    background-color: #fff;
+    padding: 2.5rem;
+    margin: 3rem auto;
+    max-width: 90%;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  }
+  
+  .experience-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+  }
+  
+  .experience-text {
+    flex: 1 1 60%;
+  }
+  
+  .experience-title {
+    font-size: 2rem;
+    color: #1a73e8;
+    border-bottom: 2px solid #1a73e8;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .experience-entry {
+    margin-bottom: 2rem;
+  }
+  
+  .experience-role {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .experience-dates {
+    font-size: 0.95rem;
+    font-weight: normal;
+    color: #777;
+  }
+  
+  .experience-list {
+    list-style: disc;
+    margin-left: 1.5rem;
+    color: #555;
+  }
+  
+  .experience-list li {
+    margin-bottom: 0.4rem;
+    font-size: 1.05rem;
+  }
+  
+  .experience-image {
+    flex: 1 1 35%;
+    text-align: center;
+  }
+  
+  .experience-image img {
+    max-width: 300px;
+    height: 300px;
+  }
+  
