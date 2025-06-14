@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SABAREESWARAN12/portfolio/static/css/main.a9017b39.css",
-    "main.js": "/SABAREESWARAN12/portfolio/static/js/main.bb3df00c.js",
-    "static/js/453.1407b060.chunk.js": "/SABAREESWARAN12/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/projects_vector.svg": "/SABAREESWARAN12/portfolio/static/media/projects_vector.baa5f898d843a2b98b33ce10ecf6943d.svg",
-    "static/media/experience_vector.svg": "/SABAREESWARAN12/portfolio/static/media/experience_vector.c961699654459e7c6845a1c777bb4a39.svg",
-    "static/media/contact_vector.svg": "/SABAREESWARAN12/portfolio/static/media/contact_vector.868b2fbb3c9505660e39da1d897494b1.svg",
-    "static/media/about_vector.svg": "/SABAREESWARAN12/portfolio/static/media/about_vector.ff06457aa8610b579901ad4a6fb01b37.svg",
-    "static/media/education_vector.svg": "/SABAREESWARAN12/portfolio/static/media/education_vector.6b7b0226f3eed2218b5b65daa34bf1b0.svg",
-    "static/media/skills_vector.svg": "/SABAREESWARAN12/portfolio/static/media/skills_vector.91ba86116b973f30c348062521a94f42.svg",
-    "static/media/GitHub.svg": "/SABAREESWARAN12/portfolio/static/media/GitHub.a966672c9831d78dd20eebfeb40614b1.svg",
-    "static/media/LinkedIn.svg": "/SABAREESWARAN12/portfolio/static/media/LinkedIn.fd9e949fcf838fc8af1b4417bd79e906.svg",
-    "index.html": "/SABAREESWARAN12/portfolio/index.html",
-    "main.a9017b39.css.map": "/SABAREESWARAN12/portfolio/static/css/main.a9017b39.css.map",
-    "main.bb3df00c.js.map": "/SABAREESWARAN12/portfolio/static/js/main.bb3df00c.js.map",
-    "453.1407b060.chunk.js.map": "/SABAREESWARAN12/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.a9017b39.css",
+    "main.js": "/portfolio/static/js/main.46df54bc.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/projects_vector.svg": "/portfolio/static/media/projects_vector.baa5f898d843a2b98b33ce10ecf6943d.svg",
+    "static/media/experience_vector.svg": "/portfolio/static/media/experience_vector.c961699654459e7c6845a1c777bb4a39.svg",
+    "static/media/contact_vector.svg": "/portfolio/static/media/contact_vector.868b2fbb3c9505660e39da1d897494b1.svg",
+    "static/media/about_vector.svg": "/portfolio/static/media/about_vector.ff06457aa8610b579901ad4a6fb01b37.svg",
+    "static/media/education_vector.svg": "/portfolio/static/media/education_vector.6b7b0226f3eed2218b5b65daa34bf1b0.svg",
+    "static/media/skills_vector.svg": "/portfolio/static/media/skills_vector.91ba86116b973f30c348062521a94f42.svg",
+    "static/media/GitHub.svg": "/portfolio/static/media/GitHub.a966672c9831d78dd20eebfeb40614b1.svg",
+    "static/media/LinkedIn.svg": "/portfolio/static/media/LinkedIn.fd9e949fcf838fc8af1b4417bd79e906.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a9017b39.css.map": "/portfolio/static/css/main.a9017b39.css.map",
+    "main.46df54bc.js.map": "/portfolio/static/js/main.46df54bc.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9017b39.css",
-    "static/js/main.bb3df00c.js"
+    "static/js/main.46df54bc.js"
   ]
 }
